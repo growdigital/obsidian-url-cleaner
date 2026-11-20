@@ -40,4 +40,4 @@ Or manually install by copying:
 
 into:
 
-``VaultFolder/.obsidian/plugins/url-cleaner/`
+`VaultFolder/.obsidian/plugins/url-cleaner/`
