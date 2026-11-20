@@ -1,8 +1,8 @@
-URL Cleaner
+# URL Cleaner
 
 Remove tracking parameters from URLs in Obsidian notes.
 
-Features
+## Features
 
 * Removes utm_* parameters
 * Removes fbclid
@@ -14,30 +14,30 @@ Features
 * Removes ref
 * Removes ref_src
 
-Command
+## Command
 
 Clean tracking parameters from URLs in current note
 
-Example
+## Example
 
 Before:
 
-https://www.linkedin.com/posts/example?utm_source=linkedin&utm_medium=social&rcm=abc123
+`https://www.linkedin.com/posts/example?utm_source=linkedin&utm_medium=social&rcm=abc123`
 
 After:
 
 https://www.linkedin.com/posts/example
 
-Installation
+## Installation
 
 Install from the Obsidian Community Plugins directory.
 
 Or manually install by copying:
 
-* manifest.json
-* main.js
-* styles.css
+* `manifest.json`
+* `main.js`
+* `styles.css`
 
 into:
 
-VaultFolder/.obsidian/plugins/url-cleaner/
+`VaultFolder/.obsidian/plugins/url-cleaner/`
